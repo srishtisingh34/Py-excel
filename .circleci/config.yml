@@ -17,6 +17,5 @@ jobs:
        
 workflows:
 version: 2
-  main:
-    jobs:
-      - build-and-test
+  jobs:
+    - build-and-test
