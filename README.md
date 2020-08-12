@@ -3,6 +3,8 @@
 Python and Excel sheet example 
 
 ## Requirements
-```flake8
+```
+flake8
 black 
-xlwt```
+xlwt
+```
